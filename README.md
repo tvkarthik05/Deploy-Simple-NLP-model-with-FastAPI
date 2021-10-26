@@ -14,7 +14,7 @@ Deploying a simple NLP model of Word2Vec using FastAPI
 
 ## Steps for running
 1. Run the "main.py" to start the api
-2. Go to browser and type "http://localhost:8000/docs". You will the docs page of FastAPI come up from where we can easily test our API
+2. Go to browser and type "http://localhost:8000/docs". You will see the docs page of FastAPI come up from where we can easily test our API
 
 ![docs](docs.PNG)
 
